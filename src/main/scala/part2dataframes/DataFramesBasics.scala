@@ -95,10 +95,10 @@ object DataFramesBasics extends App {
   manualCarsDFWithImplicits.printSchema()
 
   /**
-    * Exercise:
+    * Exercise(s):
     * 1) Create a manual DF describing smart phones
     *  - make, model, processor, screen dimension, camera megapixels
-    *    2) Read another file from the data/ folder (movies dataset)
+    * 2) Read another file from the data/ folder (movies dataset)
     *  - print its schema
     *  - count the number of rows by calling the .count method
     */
