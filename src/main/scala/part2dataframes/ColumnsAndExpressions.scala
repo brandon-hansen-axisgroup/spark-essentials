@@ -1,6 +1,5 @@
 package part2dataframes
 
-import org.apache.commons.lang3.BooleanUtils.and
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions.{col, column, expr}
 
